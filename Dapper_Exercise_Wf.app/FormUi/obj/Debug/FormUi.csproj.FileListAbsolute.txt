@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\bin\Debug\FormUi.exe.config
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\bin\Debug\FormUi.exe
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\bin\Debug\FormUi.pdb
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\obj\Debug\FormUi.Form1.resources
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\obj\Debug\FormUi.Properties.Resources.resources
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\obj\Debug\FormUi.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\obj\Debug\FormUi.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\obj\Debug\FormUi.exe
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\obj\Debug\FormUi.pdb
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\bin\Debug\Dapper.dll
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\bin\Debug\Dapper.xml
+C:\Users\vikto\source\repos\Dapper_Exercise_Wf.app\FormUi\obj\Debug\FormUi.csproj.CopyComplete
